@@ -1,4 +1,4 @@
-# cs7643
+# cs7643 Human motion prediction
 
 # Code
 https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF?usp=sharing
