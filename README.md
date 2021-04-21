@@ -1,7 +1,7 @@
 # cs7643 Human motion prediction
 
-# Code
-https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF?usp=sharing
+## Final report 
+https://docs.google.com/document/d/1Q-rjSpV56X3dtkkXF-znCebR2inpdunJdN2P9C-N6Ks/edit?usp=sharing
 
 # Dataset
 
@@ -16,8 +16,10 @@ rm h3.6m.zip
 
 
 ### Usage 
+https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF?usp=sharing
 
 ```
+
 ```
 
 
