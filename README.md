@@ -7,12 +7,12 @@ https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF?usp=sh
 
 h3.6m
 
-'''
+```
 cd data
 wget http://www.cs.stanford.edu/people/ashesh/h3.6m.zip
 unzip h3.6m.zip
 rm h3.6m.zip
-'''
+```
 
 
 ### Usage 
