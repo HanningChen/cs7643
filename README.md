@@ -1,7 +1,7 @@
 # cs7643
 
 # Code
-https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF#scrollTo=lQcgfLypMHbK
+https://colab.research.google.com/drive/1p4cWkaDMmyEGq5MfgtOGKFkWYLAcE0QF?usp=sharing
 
 ### Usage 
 
